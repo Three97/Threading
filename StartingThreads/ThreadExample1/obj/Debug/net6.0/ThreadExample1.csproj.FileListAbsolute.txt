@@ -1,0 +1,15 @@
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\bin\Debug\net6.0\ThreadExample1.exe
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\bin\Debug\net6.0\ThreadExample1.deps.json
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\bin\Debug\net6.0\ThreadExample1.runtimeconfig.json
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\bin\Debug\net6.0\ThreadExample1.dll
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\bin\Debug\net6.0\ThreadExample1.pdb
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\ThreadExample1.csproj.AssemblyReference.cache
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\ThreadExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\ThreadExample1.AssemblyInfoInputs.cache
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\ThreadExample1.AssemblyInfo.cs
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\ThreadExample1.csproj.CoreCompileInputs.cache
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\ThreadExample1.dll
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\refint\ThreadExample1.dll
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\ThreadExample1.pdb
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\ThreadExample1.genruntimeconfig.cache
+C:\grmn\dev\GitHub\Three97\BulletproofMultiThreadedCode\StartingThreads\ThreadExample1\obj\Debug\net6.0\ref\ThreadExample1.dll
